@@ -57,21 +57,6 @@
 
 ---
 
-## 🛠️ How to Run Locally
-```bash
-# Step 1: Clone the repository
-git clone https://github.com/your-username/mathematical-game.git
-
-# Step 2: Navigate into the folder
-cd mathematical-game
-
-# Step 3: Run the game
-python mathgame.py
-```
-✅ Make sure Python 3 is installed: `python --version`
-
----
-
 ## 💻 Example Usage
  ```bash
 ***Mathematical Game***
@@ -154,6 +139,21 @@ Congrats Jordan! You scored 14 points
 
 Enter your choice: 
 ```
+---
+
+## 🛠️ How to Run Locally
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/your-username/mathematical-game.git
+
+# Step 2: Navigate into the folder
+cd mathematical-game
+
+# Step 3: Run the game
+python mathgame.py
+```
+✅ Make sure Python 3 is installed: `python --version`
+
 ---
 
 ## 🧠 Learning Note
