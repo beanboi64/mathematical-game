@@ -239,7 +239,6 @@ This project is licensed under the [MIT LICENSE](LICENSE) . Feel free to use, mo
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-- **Email**: billywaynejr007@gmail.com
 - **GitHub**: [beanboi64](https://github.com/beanboi64)
 - **Instagram**: [krissattack0](https://www.instagram.com/krissattack0)
 - **X**: [krissattacko](https://x.com/krissattack0)
