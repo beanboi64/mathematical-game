@@ -9,7 +9,7 @@
 
 # 🧮 Mathematical Game
 
-![Python](https://img.shields.io/badge/language-Python-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
 ![Learning](https://img.shields.io/badge/learning-Project%20Based-blueviolet.svg)
 
